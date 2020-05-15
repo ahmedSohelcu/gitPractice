@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 1.Initial File content
 ================================
 2. 2nd commit....
 3. 3nd commit....
+=======
+Initial File content
+================================
+>>>>>>> parent of 9b77532... second commit
